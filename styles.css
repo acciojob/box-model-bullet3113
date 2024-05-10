@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+#container {
+		
+}
+
+.inner {
+	display: inline;
+	width: 20px;
+	height: 20px;
+}
+
+#red {
+	background-color: red;
+}
+
+#yellow {
+	background-color: yellow;
+}
+
+#green {
+	background-color: green;
+}
